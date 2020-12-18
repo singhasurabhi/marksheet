@@ -1,0 +1,51 @@
+*{
+    margin:0;
+    padding:0;
+
+}
+body {
+    font-family: 'Anaheim';
+    font-size: 1.2em;
+    text-transform: capitalize;
+  }
+  #outside {
+    background-color: lightgoldenrodyellow;
+    padding-top: 25px;
+    padding-bottom: 25px;
+  }
+  h1 {
+    font-size: 1.5em;
+    text-align: center;
+    text-transform: capitalize;
+  }
+  form {
+    /* Just to center the form on the page */
+    margin: 0 auto;
+    width: 70%;
+    /* To see the limits of the form */
+    padding: 1em;
+    border: 1px solid #CCC;
+    border-radius: 1em;
+    
+  }
+  #survey-form {
+    background-color: white;
+  }
+/*body{
+    width:60%;
+    height:100vh;
+    background-color: antiquewhite;
+    color:blue;
+    text-align:ltr;
+    text-transform: uppercase;
+    float:left;
+    font-style: italic;
+    font-size: 15px;
+    font-weight: bold;
+    font-variant:small-caps;
+
+}*/
+input{
+    padding:5px 5px;
+    margin:10px 10px;
+}
